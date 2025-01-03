@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="car_starting_procedure">
+    <title>Starting the Car</title>
+    <shortdesc>Initiate vehicle movement by carefully managing throttle, clutch, and gear lever
+        operations.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ensure you are seated in the driver's position with clear surroundings.</p>
+        </prereq>
+
+        <steps>
+            <step>
+                <cmd>Slightly accelerate the engine by opening the throttle.</cmd>
+            </step>
+            <step>
+                <cmd>Press the clutch pedal halfway forward to hold it in neutral position.</cmd>
+            </step>
+            <step>
+                <cmd>Throw the hand lever forward.</cmd>
+            </step>
+            <step>
+                <cmd>Press the pedal forward into slow speed.</cmd>
+            </step>
+            <step>
+                <cmd>Allow the car to gain sufficient headway (20 to 30 feet).</cmd>
+            </step>
+            <step>
+                <cmd>Slowly drop the pedal back into high speed.</cmd>
+                <stepxmp>
+                    <p>Simultaneously, partially close the throttle to help the engine pick up its
+                        load smoothly.</p>
+                </stepxmp>
+            </step>
+        </steps>
+
+        <result>
+            <p>The car is now in motion and transitioning to high speed.</p>
+        </result>
+
+        <postreq>
+            <p>With practice, this speed change process will become smooth and nearly
+                imperceptible.</p>
+        </postreq>
+    </taskbody>
+</task>

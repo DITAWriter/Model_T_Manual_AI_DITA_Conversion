@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reducing_tire_expenses">
+    <title>Reducing Tire Expenses</title>
+    <shortdesc>Best practices for minimizing tire wear and maximizing tire longevity to reduce
+        operating costs.</shortdesc>
+    <conbody>
+        <section>
+            <title>Importance of Tire Maintenance</title>
+            <p>Tire costs represent a major component of automobile operating expenses. Regular
+                inspection and prompt repair of small cuts or holes prevents dirt and water
+                infiltration that can cause blisters or sand boils.</p>
+        </section>
+        <section>
+            <title>Proper Inflation</title>
+            <p>Maintain proper tire inflation to prevent:</p>
+            <ul>
+                <li>Rim cutting from excessive sidewall flexing</li>
+                <li>Increased puncture risk from excessive road surface contact</li>
+            </ul>
+        </section>
+        <section>
+            <title>Damaging Practices to Avoid</title>
+            <ul>
+                <li>Running on flat tires</li>
+                <li>Fast driving and skidding</li>
+                <li>Locking wheels during braking</li>
+                <li>Running in streetcar tracks or ruts</li>
+                <li>Curb impact</li>
+            </ul>
+        </section>
+        <section>
+            <title>Storage and Maintenance</title>
+            <p>Protect tires through proper storage and maintenance:</p>
+            <ul>
+                <li>Paint wheel rims annually and prevent rust</li>
+                <li>Jack up idle vehicles to reduce tire load</li>
+                <li>Store dismounted tires separately in dark, temperature-controlled spaces</li>
+                <li>Keep tires free from oil, grease, heat, and light exposure</li>
+            </ul>
+        </section>
+    </conbody>
+</concept>

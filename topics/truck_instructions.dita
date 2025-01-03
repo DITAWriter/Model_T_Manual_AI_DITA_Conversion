@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="truck_instructions">
+    <title>Truck and Car Instruction Compatibility</title>
+    <shortdesc>Most car maintenance instructions apply to trucks, with specific
+        exceptions.</shortdesc>
+    <conbody>
+        <p>The maintenance and operating instructions for cars are generally applicable to trucks,
+            excluding instructions 79, 80, and 81.</p>
+    </conbody>
+</concept>

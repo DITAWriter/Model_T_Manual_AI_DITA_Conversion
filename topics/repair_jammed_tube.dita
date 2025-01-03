@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="repair_jammed_tube">
+    <!-- Third part of original "How are leaks and jams in the Radiator repaired?" topic -->
+    <title>Repairing a Jammed Radiator Tube</title>
+    <shortdesc>Replace a section of jammed radiator tube to restore proper circulation.</shortdesc>
+    
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Ensure the radiator is cool and drained</li>
+                <li>Have replacement tube material ready</li>
+                <li>Have soldering equipment available</li>
+            </ul>
+        </prereq>        
+        
+        <context>
+            <p>When a radiator tube is jammed and requires replacement to prevent freezing and circulation problems.</p>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Cut the tube one inch above the jam</cmd>
+            </step>
+            <step>
+                <cmd>Cut the tube one inch below the jam</cmd>
+            </step>
+            <step>
+                <cmd>Remove the jammed section</cmd>
+            </step>
+            <step>
+                <cmd>Insert new piece of tube</cmd>
+            </step>
+            <step>
+                <cmd>Solder both connections</cmd>
+                <info>Ensure the solder creates a complete seal at both joints</info>
+            </step>
+        </steps>
+        
+        <result>
+            <p>The radiator tube will be clear and circulation will be restored.</p>
+        </result>
+        
+        <postreq>
+            <note type="tip">Test the repair by running the engine until warm and checking for leaks.</note>
+        </postreq>
+    </taskbody>
+</task>

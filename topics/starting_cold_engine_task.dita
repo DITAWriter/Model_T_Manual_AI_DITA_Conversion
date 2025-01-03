@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="starting_cold_engine_task">
+    <title>Starting the Engine in Cold Weather</title>
+    <shortdesc>Learn how to properly start and warm up your engine in cold weather conditions to
+        ensure optimal performance and prevent stalling.</shortdesc>
+
+    <taskbody>
+        <context>
+            <p>In cold weather, gasoline does not vaporize easily, making engine starts more
+                challenging. Follow these procedures to start your engine effectively in cold
+                conditions.</p>
+        </context>
+
+        <steps>
+            <stepsection>Primary Method</stepsection>
+            <step>
+                <cmd>Adjust the carburetor settings</cmd>
+                <info>Turn the carburetor dash adjustment one-quarter turn to the left to enable a
+                    richer gasoline mixture.</info>
+            </step>
+
+            <step>
+                <cmd>Prime the engine</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Hold out the priming rod</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Either turn the crank six to eight quarter-turns in quick succession or
+                            turn the motor over several times using the starter</cmd>
+                    </substep>
+                </substeps>
+            </step>
+
+            <stepsection>Alternative Method for Troublesome Starts</stepsection>
+            <step>
+                <cmd>Close the throttle lever</cmd>
+            </step>
+            <step>
+                <cmd>Prime the engine while cranking</cmd>
+                <info>Hold out priming rod while turning the crank several times or using the
+                    starter</info>
+            </step>
+            <step>
+                <cmd>Release the priming rod</cmd>
+                <info>Ensure it returns completely</info>
+            </step>
+            <step>
+                <cmd>Set the spark and throttle</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Place spark lever in third notch</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Advance throttle lever several notches</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Switch to "Magneto" position</cmd>
+            </step>
+            <step>
+                <cmd>Start the engine by either giving the crank one or two turns or closing the
+                    starting switch</cmd>
+            </step>
+
+            <step>
+                <cmd>Warm up the engine</cmd>
+                <info>
+                    <ul>
+                        <li>Advance the spark eight to ten notches on the quadrant</li>
+                        <li>Allow motor to run until thoroughly heated</li>
+                        <li>Turn carburetor adjustment back one-quarter turn once warmed up</li>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+
+        <result>The engine should start and run smoothly in cold weather conditions. <note
+                type="warning">Do not start driving with a cold motor, as you will have reduced
+                power and may stall.</note></result>
+
+        <postreq>For overnight storage, you may stop the engine by pulling out the priming rod,
+            which fills cylinders with rich gasoline vapor. Only use this method if the car will
+            stand long enough to cool off completely. Do not use this method if you plan to restart
+            the engine while it's still hot, as it may cause starting difficulties.</postreq>
+    </taskbody>
+</task>

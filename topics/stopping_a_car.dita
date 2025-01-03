@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="stopping_a_car" xml:lang="en-us">
+    <title>Stopping a Car</title>
+    <shortdesc>Learn the precise sequence of steps to safely and effectively bring a car to a complete stop.</shortdesc>
+    
+    <taskbody>
+        <context>
+            <p>Stopping a car requires a careful and methodical approach to ensure smooth deceleration and prevent engine stalling. Following the correct procedure protects both the vehicle and its occupants.</p>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Partially close the throttle</cmd>
+            </step>
+            
+            <step>
+                <cmd>Release the high speed</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Press the clutch pedal forward into neutral</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            
+            <step>
+                <cmd>Apply the foot brake</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Brake slowly but firmly</cmd>
+                        <info>Continue until the car comes to a complete stop</info>
+                    </substep>
+                </substeps>
+            </step>
+            
+            <step>
+                <cmd>Manage the hand lever</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Pull the hand lever back to neutral position</cmd>
+                        <info>Do not remove foot from the clutch pedal before doing this to prevent engine stalling</info>
+                    </substep>
+                </substeps>
+            </step>
+            
+            <step>
+                <cmd>Stop the motor</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open the throttle slightly to accelerate the motor</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Throw off the switch</cmd>
+                        <info>This stops the engine with cylinders full of explosive gas, which aids future starting</info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        
+        <result>
+            <p>Mastering this stopping procedure ensures smooth vehicle deceleration and protects the car's mechanical systems.</p>
+        </result>
+        
+        <postreq>
+            <p>Practice until the process of disengaging the clutch and applying the brake becomes an automatic response, especially in emergency situations.</p>
+        </postreq>
+    </taskbody>
+</task>
