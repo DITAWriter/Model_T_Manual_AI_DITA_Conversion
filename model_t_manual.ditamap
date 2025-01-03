@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
-        <mainbooktitle><ph keyref="company_name"/> Manual</mainbooktitle>
+        <mainbooktitle><ph keyref="product_name"/> Manual</mainbooktitle>
         <booktitlealt>For Owners and Operators of <ph keyref="company_name"/> Cars and
             Trucks</booktitlealt>
     </booktitle>
@@ -24,7 +24,7 @@
                 <completed>
                     <year>2025</year>
                     <month>January</month>
-                    <day>2</day>
+                    <day>6</day>
                 </completed>
             </edited>
         </bookchangehistory>
@@ -62,21 +62,7 @@
             </topicmeta>
         </keydef>
     </frontmatter>
-    <chapter processing-role="resource-only">
-        <keydef keys="company_name">
-            <topicmeta>
-                <keywords>
-                    <keyword>Ford</keyword>
-                </keywords>
-            </topicmeta>
-        </keydef>
-        <keydef keys="product_name">
-            <topicmeta>
-                <keywords>
-                    <keyword>Model T</keyword>
-                </keywords>
-            </topicmeta>
-        </keydef>        
+    <chapter processing-role="resource-only">   
         <mapref href="image_store.map" processing-role="resource-only"/>
         <mapref href="keydef_map.map" processing-role="resource-only"/>
     </chapter>
